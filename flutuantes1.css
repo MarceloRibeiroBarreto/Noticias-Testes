@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+#Principal{
+    width: 920px;
+    
+    
+}
+
+.Noticias{
+
+    background-color: #FFA726;
+    padding: 5px;
+    border: 1px solid green;
+    width: 280px;
+    margin: 5px;
+    font-family: monospace;
+    float: left;
+    text-align: center;
+    
+}
+
+.Clear{
+    clear: both;
+}
+
+#Imagens{
+    margin: 5px;
+    float: left;
+    
+}
+
+#Imagens2{
+    margin: 9px;
+    float: left;
+    margin-top: 5px;
+}
+
